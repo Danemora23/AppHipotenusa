@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppHipotenusa</string>
+    <string name="CatetoA">CatetoA</string>
+    <string name="CatetoB">CatetoB</string>
+    <string name="Resultado">Hipotenusa</string>
+    <string name="Calcular">CALCULAR</string>
+</resources>
